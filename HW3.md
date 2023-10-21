@@ -30,3 +30,9 @@
 |先決條件|使用者填寫問券|
 |後至條件|使用者填寫完問券|
 |假設|無|
+
+# Figma
+### user page
+![TEST](img/user.png "user page")
+### manager page
+![TEST](img/manager.png "manager page")
