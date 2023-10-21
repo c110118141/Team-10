@@ -33,6 +33,6 @@
 
 # Figma
 ### user page
-![TEST](img/user.png "user page")
+![TEST](img/user.png=500x100 "user page")
 ### manager page
 ![TEST](img/manager.png "manager page")
