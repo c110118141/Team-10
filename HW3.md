@@ -18,3 +18,4 @@
 3.管理者分析資料<br>
 
 # 使用案例圖
+![TEST](img/UseCase.png "UseCase")
