@@ -33,6 +33,7 @@
 
 # Figma
 ### user page
-![TEST](img/user.png=500x100 "user page")
+<img src="https://github.com/c110118141/Team-10/blob/main/img/user.png?raw=true" width="262" height="568" alt="圖片描述">
+
 ### manager page
 ![TEST](img/manager.png "manager page")
